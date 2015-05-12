@@ -1,3 +1,0 @@
-This is a test file that i want to push pull and remove.
-
-This will further my knowledge of github
